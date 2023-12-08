@@ -84,8 +84,10 @@
         }
         
           .foto{width: 100%;}
-        
-          footer{background-color: black;
-                 text-align: center; 
-            color: aliceblue;}
+
                 
+            footer {
+              text-align: center;
+              background: url("bg.jpg");
+              padding: 40px 0;
+            }
